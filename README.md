@@ -1,4 +1,4 @@
-# Bryant Zhan's Homework #5.01(to Bryant2430/aiot_hw5)
+# Bryant Zhan's Homework #5(to Bryant2430/aiot_hw5)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
@@ -13,7 +13,10 @@
 6. (check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
     * C:> git config --global user.name "Bryant Zhan"
     * C:> git config --global user.email tony10613@gmail.com
+    * C:> git commit -m "first commit"
+    * C:> git remote add origin https://github.com/Bryant2430/aiot_hw5.git
+    * C:> git branch -M main
+    * C:> git push -u origin main
 
-7.  git remote add origin https://github.com/Bryant2430/aiot_hw5.git
-8. git branch -M main
-9. git push -u origin main
+7. Remeber to turn on xampp/MySQL (Apache is not necessary)
+add user/password: test123/test123
