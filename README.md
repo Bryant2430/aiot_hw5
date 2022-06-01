@@ -20,3 +20,29 @@
 
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
 add user/password: test123/test123
+
+### step2 develop log(作業五(flask,github,database))
+* 步驟一:建立一個新的repository
+<img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/1.jpg" width="500px"/>
+* 步驟二:打開建立的新資料夾
+* 步驟三:擴增python套件
+* 步驟四:使用git clone將github上的aiot_hw5給複製到指定的資料夾
+* 步驟五:將github上的檔案指定到aiot_hw5中
+* 步驟六:將檔案開啟至vs code
+* 步驟七: 在readme.md上添增文字
+* 步驟八:將檔案存檔並傳至github
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
