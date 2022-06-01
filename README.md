@@ -38,14 +38,28 @@ add user/password: test123/test123
     <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/7.jpg" width="500px"/>
 * 步驟八:將檔案存檔並傳至github
     <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/8.jpg" width="500px"/>
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* 步驟九:確認檔案並上傳
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/9.jpg" width="500px"/>
+* 步驟十:點選「重新命名分支」
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/10.jpg" width="500px"/>
+* 步驟十一:將分支改名為step1
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/11.jpg" width="500px"/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/12.jpg" width="500px"/>
+* 步驟十二:完成上傳並在github中顯示
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/13.jpg" width="500px"/>
+* 步驟十三:點選「簽出至」並切換至step5分支
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/14.jpg" width="500px"/>
+* 步驟十四:安裝需要套件(flask,pandas,sklearn,pymysql)
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/15.jpg" width="500px"/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/16.jpg" width="500px"/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/17.jpg" width="500px"/>
+* 步驟十五:打開xampp並建立使用者test123與匯入資料庫到aiotdb中
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/18.jpg" width="500px"/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/19.jpg" width="500px"/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/20.jpg" width="500px"/>
+* 步驟十六:執行app.py並點選http://127.0.0.1:5000/
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/21.jpg" width="500px"/>
+
 * 
 * 
 * 
