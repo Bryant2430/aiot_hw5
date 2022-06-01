@@ -23,9 +23,11 @@ add user/password: test123/test123
 
 ### step2 develop log(作業五(flask,github,database))
 * 步驟一:建立一個新的repository
-    <img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/1.jpg" width="500px"/><br/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/1.jpg" width="500px"/>
 * 步驟二:打開建立的新資料夾
-    <img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/2.jpg" width="500px"/><br/>
+
+    <img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/2.jpg" width="500px"/>
+
 * 步驟三:擴增python套件
     <img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/3.jpg" width="500px"/><br/>
 * 步驟四:使用git clone將github上的aiot_hw5給複製到指定的資料夾
