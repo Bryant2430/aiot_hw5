@@ -60,10 +60,12 @@ add user/password: test123/test123
 * 步驟十六:執行app.py並點選http://127.0.0.1:5000/
     <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/21.jpg" width="500px"/>
 
-* 
-* 
-* 
-* 
-* 
-* 
+* 步驟十七:進入網站後即可點選set random來隨機亂數data
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/22.jpg" width="500px"/>
+* 步驟十八:點選call AI來進行分類將高於300為1(綠色)，反之為0(紅色)
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/23.jpg" width="500px"/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/24.jpg" width="500px"/>
+* 步驟十九:在vs code中建立新分支step5並上傳至github即完成。
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/25.jpg" width="500px"/>
+    <br/><img src="https://github.com/Bryant2430/aiot_hw5/blob/step5/hw05_img/26.jpg" width="500px"/>
 
